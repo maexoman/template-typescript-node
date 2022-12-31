@@ -1,0 +1,17 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		"**/.vscode": true,
+		"lib": true,
+		"types": true,
+		"tsconfig.tsbuildinfo": true,
+		"build.js": true
+	},
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false
+}
